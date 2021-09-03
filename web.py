@@ -8,3 +8,4 @@ driver = webdriver.Chrome(executable_path="C:\chromedriver.exe") # Macの方は�
 driver.get("https://aiacademy.jp/")
 
 print(driver.title)
+print("test")
